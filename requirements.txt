@@ -1,0 +1,13 @@
+numpy==1.24.4
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+sentence-transformers==3.4.1
+transformers==4.41.2
+TTS==0.22.0
+jax==0.4.23
+jaxlib==0.4.23
+librosa==0.10.1
+scipy==1.11.4
+soundfile==0.12.1
+audioread==3.0.1
