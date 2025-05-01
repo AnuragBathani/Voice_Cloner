@@ -20,9 +20,9 @@ def clone_voice(voice_sample_path, text_to_synthesize, output_path, language="en
         language=language,
         file_path=output_path
     )
-    print(f"✅ Voice cloning completed! File saved at: {output_path}")
+    print(f" Voice cloning completed! File saved at: {output_path}")
 
-# ==== Example usage ====
+
 if __name__ == "__main__":
     # Update these paths to local file paths
     voice_sample = r"replace with path of voice sample "
